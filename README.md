@@ -31,8 +31,8 @@ You need [`npm`](https://nodejs.org), `Apache` and `MySQL` or something similar 
 ### Installing
 
 ```
-git clone https://github.com/alexandru-cazacu/east-coast-trip.git
-cd east-coast-trip
+git clone https://github.com/Excellent1212/React-east-coast-trip-site.git
+cd React-east-coast-trip-site
 npm install
 ```
 
